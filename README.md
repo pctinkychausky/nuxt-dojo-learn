@@ -1,3 +1,5 @@
+This is a store app with list of products to learn Nuxt3. I learnt how to implement tailwind CSS, fetch 3rd party API, create multiple pages and private routes in this application.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
