@@ -11,7 +11,9 @@
       voluptatibus ullam reiciendis quo pariatur molestiae quasi harum eos
       facere numquam?111
     </p>
-    <div>{{ data }}</div>
+    <div>Practice fetch API:</div>
+    <div>Currency: USD/{{ data.GBP.code }}</div>
+    <div>Value: {{ data.GBP.value }}</div>
   </div>
 </template>
 
